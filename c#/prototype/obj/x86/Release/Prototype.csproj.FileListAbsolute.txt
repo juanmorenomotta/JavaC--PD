@@ -1,0 +1,4 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Prototype\bin\Release\Prototype.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Prototype\bin\Release\Prototype.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Prototype\obj\x86\Release\Prototype.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Prototype\obj\x86\Release\Prototype.pdb

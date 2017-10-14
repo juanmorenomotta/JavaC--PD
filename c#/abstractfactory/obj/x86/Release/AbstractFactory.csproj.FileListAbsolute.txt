@@ -1,0 +1,4 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\bin\Release\AbstractFactory.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\bin\Release\AbstractFactory.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\obj\x86\Release\AbstractFactory.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\obj\x86\Release\AbstractFactory.pdb

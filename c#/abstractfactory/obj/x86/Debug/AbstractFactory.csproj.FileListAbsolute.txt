@@ -1,0 +1,5 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\obj\x86\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

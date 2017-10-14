@@ -1,0 +1,4 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Interpreter\obj\x86\Debug\Interpreter.pdb

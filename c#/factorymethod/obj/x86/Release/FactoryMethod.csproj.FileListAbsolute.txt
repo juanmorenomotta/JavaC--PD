@@ -1,0 +1,6 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Release\FactoryMethod.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Release\FactoryMethod.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Release\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Release\Librerias.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\obj\x86\Release\FactoryMethod.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\obj\x86\Release\FactoryMethod.pdb

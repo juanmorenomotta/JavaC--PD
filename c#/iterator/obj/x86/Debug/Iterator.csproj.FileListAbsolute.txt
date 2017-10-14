@@ -1,0 +1,4 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Iterator\bin\Debug\Iterator.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Iterator\bin\Debug\Iterator.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Iterator\obj\x86\Debug\Iterator.pdb

@@ -1,0 +1,7 @@
+c:\users\unicauca\documents\visual studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\users\unicauca\documents\visual studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\unicauca\documents\visual studio 2010\Projects\PatronesDiseño\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+c:\users\unicauca\documents\visual studio 2010\Projects\PatronesDiseño\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\obj\x86\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Debug\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\FactoryMethod\bin\Debug\Librerias.pdb
