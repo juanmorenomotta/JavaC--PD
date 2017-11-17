@@ -1,0 +1,7 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Debug\Bridge.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Debug\Bridge.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Debug\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Debug\Librerias.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\obj\x86\Debug\Bridge.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\obj\x86\Debug\Bridge.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache

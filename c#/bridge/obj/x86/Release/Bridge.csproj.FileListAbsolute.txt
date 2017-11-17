@@ -1,0 +1,6 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Release\Bridge.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Release\Bridge.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Release\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\bin\Release\Librerias.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\obj\x86\Release\Bridge.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Bridge\obj\x86\Release\Bridge.pdb
